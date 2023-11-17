@@ -35,6 +35,10 @@ td {
 }
 
 .navbar {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
   border-bottom: 1px solid #ccc;
   padding: 10px 20px;
   display: flex;
@@ -44,4 +48,73 @@ td {
 
 .navbar a {
   color: #000;
+}
+
+.sidebar {
+  position: fixed;
+  top: 59.2px;
+  bottom: 0;
+  width: 250px;
+  border-right: 1px solid #ccc;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 5px;
+  gap: 5px;
+}
+
+.menu a {
+  color: #000;
+  text-decoration: none;
+  padding: 10px 0;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+  font-weight: 600;
+  background-color: #eee;
+}
+
+.content {
+  position: fixed;
+  top: 59.2px;
+  bottom: 0;
+  left: 250px;
+  padding: 50px;
+  overflow-y: auto;
+}
+
+.container h1 {
+  margin-bottom: 20px;
+}
+
+.container p {
+  text-align: justify;
+  margin-bottom: 30px;
+}
+
+.container a {
+  color: #000;
+  text-decoration: none;
+  background-color: buttonface;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+}
+
+.container a:hover,
+.container a:focus,
+.container a:active {
+  background-color: #ccc;
+}
+
+.container .copyright {
+    margin-top: 30px;
 }
