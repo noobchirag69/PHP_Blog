@@ -134,11 +134,23 @@ td {
   margin: 20px 0;
 }
 
-.blog h1, .blog p {
+.blog h1,
+.blog p {
   margin-bottom: 10px;
 }
 
 .blog a {
   display: inline-block;
   margin-top: 10px;
+}
+
+.post {
+  display: inline-block;
+  border: 1px solid #ccc;
+  margin: 20px 0;
+  padding: 30px;
+}
+
+.post h2 {
+  margin-bottom: 20px;
 }

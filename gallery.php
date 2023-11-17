@@ -25,6 +25,26 @@ include "partials/head.php";
           quod velit earum soluta ratione perspiciatis reiciendis id hic
           aliquam provident.
         </p>
+        <div class="gallery">
+          <div tabindex="0" class="post">
+            <h2 tabindex="0">Post Caption</h2>
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+          </div>
+          <div tabindex="0" class="post">
+            <h2 tabindex="0">Post Caption</h2>
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+          </div>
+          <div tabindex="0" class="post">
+            <h2 tabindex="0">Post Caption</h2>
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+            <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
+          </div>
+        </div>
       </div>
     </div>
   </div>
