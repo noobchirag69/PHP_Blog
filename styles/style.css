@@ -22,6 +22,7 @@ h6 {
 p,
 a,
 span,
+small,
 label,
 input,
 textarea,
@@ -64,7 +65,7 @@ td {
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 5px;
+  padding: 10px;
   gap: 5px;
 }
 
@@ -81,6 +82,14 @@ td {
 .menu a:active {
   font-weight: 600;
   background-color: #eee;
+}
+
+.site-info {
+  padding: 10px;
+}
+
+.site-info p {
+  margin-bottom: 10px;
 }
 
 .content {
@@ -116,5 +125,20 @@ td {
 }
 
 .container .copyright {
-    margin-top: 30px;
+  margin-top: 30px;
+}
+
+.blog {
+  border: 1px solid #ccc;
+  padding: 30px;
+  margin: 20px 0;
+}
+
+.blog h1, .blog p {
+  margin-bottom: 10px;
+}
+
+.blog a {
+  display: inline-block;
+  margin-top: 10px;
 }
