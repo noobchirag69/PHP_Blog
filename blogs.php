@@ -55,6 +55,8 @@ include "partials/head.php";
       </div>
     </div>
   </div>
+  <!-- Footer -->
+  <?php include "partials/footer.php"; ?>
 </body>
 
 </html>
