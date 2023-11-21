@@ -28,11 +28,13 @@ include "partials/head.php";
         <div class="gallery">
           <div tabindex="0" class="post">
             <h2 tabindex="0">Post Caption</h2>
+            <p> Nov 21, 2023</p>
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
           </div>
           <div tabindex="0" class="post">
             <h2 tabindex="0">Post Caption</h2>
+            <p> Nov 21, 2023</p>
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
@@ -40,6 +42,7 @@ include "partials/head.php";
           </div>
           <div tabindex="0" class="post">
             <h2 tabindex="0">Post Caption</h2>
+            <p> Nov 21, 2023</p>
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">
             <img tabindex="0" src="https://via.placeholder.com/250x200" alt="Sample Image">

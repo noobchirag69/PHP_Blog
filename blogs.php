@@ -23,31 +23,31 @@ include "partials/head.php";
         <div class="blogs">
           <div class="blog" tabindex="0">
             <h1 tabindex="0">Blog Title</h1>
-            <p tabindex="0">By Author</p>
+            <p tabindex="0">By Author (Nov 21, 2023)</p>
             <p tabindex="0">Blog Summary - Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, fugit voluptatem accusamus deserunt soluta hic. Soluta vero nisi aperiam praesentium!</p>
             <a href="#">Read More</a>
           </div>
           <div class="blog" tabindex="0">
             <h1 tabindex="0">Blog Title</h1>
-            <p tabindex="0">By Author</p>
+            <p tabindex="0">By Author (Nov 21, 2023)</p>
             <p tabindex="0">Blog Summary - Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, fugit voluptatem accusamus deserunt soluta hic. Soluta vero nisi aperiam praesentium!</p>
             <a href="#">Read More</a>
           </div>
           <div class="blog" tabindex="0">
             <h1 tabindex="0">Blog Title</h1>
-            <p tabindex="0">By Author</p>
+            <p tabindex="0">By Author (Nov 21, 2023)</p>
             <p tabindex="0">Blog Summary - Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, fugit voluptatem accusamus deserunt soluta hic. Soluta vero nisi aperiam praesentium!</p>
             <a href="#">Read More</a>
           </div>
           <div class="blog" tabindex="0">
             <h1 tabindex="0">Blog Title</h1>
-            <p tabindex="0">By Author</p>
+            <p tabindex="0">By Author (Nov 21, 2023)</p>
             <p tabindex="0">Blog Summary - Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, fugit voluptatem accusamus deserunt soluta hic. Soluta vero nisi aperiam praesentium!</p>
             <a href="#">Read More</a>
           </div>
           <div class="blog" tabindex="0">
             <h1 tabindex="0">Blog Title</h1>
-            <p tabindex="0">By Author</p>
+            <p tabindex="0">By Author (Nov 21, 2023)</p>
             <p tabindex="0">Blog Summary - Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, fugit voluptatem accusamus deserunt soluta hic. Soluta vero nisi aperiam praesentium!</p>
             <a href="#">Read More</a>
           </div>
